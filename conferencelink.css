@@ -1,0 +1,31 @@
+.bg-image-1{
+    background-image: url("conference-img.png");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+.head-1{
+    text-align: center;
+}
+.h1{
+    color: #183b56;
+}
+.p{
+    color:#5a7184
+}
+.head-2{
+    margin: 20px;
+    text-align: center;
+}
+.head{
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-size:30px;
+    color:#183b56;
+}
+p{
+    font-size: 20px;
+    color:#5a7184;
+}
